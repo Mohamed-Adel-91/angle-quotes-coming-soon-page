@@ -47,7 +47,7 @@
     <header class="p-8 text-center relative z-10">
         <div class="flex flex-col items-center justify-center">
             <img src="6OGKXHOIiZWjQPhSTlFlHmPk0U.avif" alt="Angle Quotes logo" class="w-24 md:w-32 h-auto object-contain">
-            <h1 class="text-3xl font-bold text-aq-orange mt-3">Coming Soon ..!</h1>
+            <h1 class="text-3xl font-bold text-aq-orange mt-3">Stay Tuned ..!</h1>
         </div>
     </header>
 
@@ -82,19 +82,26 @@
         </p>
 
 <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8 md:gap-12 w-full max-w-7xl mb-16 md:mb-24 px-4 border-t border-aq-slate pt-12">
-            <div class="flex flex-col items-center text-center">
+            <!-- <div class="flex flex-col items-center text-center">
                 <div class="mb-4 text-aq-orange">
                     <i class="fas fa-terminal text-5xl" aria-hidden="true"></i>
                 </div>
                 <h3 class="text-xl font-bold text-aq-orange mb-1">Software</h3>
                 <p class="text-aq-gray text-sm">Applications & terminal code.</p>
-            </div>
+            </div> -->
             <div class="flex flex-col items-center text-center">
                 <div class="mb-4 text-aq-orange">
                     <i class="fas fa-cloud-upload-alt text-5xl" aria-hidden="true"></i>
                 </div>
                 <h3 class="text-xl font-bold text-aq-orange mb-1">SaaS</h3>
                 <p class="text-aq-gray text-sm">Cloud platforms development.</p>
+            </div>
+                        <div class="flex flex-col items-center text-center">
+                <div class="mb-4 text-aq-orange">
+                    <i class="fas fa-cogs text-5xl" aria-hidden="true"></i>
+                </div>
+                <h3 class="text-xl font-bold text-aq-orange mb-1">Software & Systems</h3>
+                <p class="text-aq-gray text-sm">Complex logic & architecture.</p>
             </div>
             <div class="flex flex-col items-center text-center">
                 <div class="mb-4 text-aq-orange">
@@ -103,19 +110,20 @@
                 <h3 class="text-xl font-bold text-aq-orange mb-1">Websites</h3>
                 <p class="text-aq-gray text-sm">Responsive web solutions.</p>
             </div>
-            <div class="flex flex-col items-center text-center">
-                <div class="mb-4 text-aq-orange">
-                    <i class="fas fa-cogs text-5xl" aria-hidden="true"></i>
-                </div>
-                <h3 class="text-xl font-bold text-aq-orange mb-1">Systems</h3>
-                <p class="text-aq-gray text-sm">Complex logic & architecture.</p>
-            </div>
+
             <div class="flex flex-col items-center text-center">
                 <div class="mb-4 text-aq-orange">
                     <i class="fas fa-mobile-alt text-5xl" aria-hidden="true"></i>
                 </div>
                 <h3 class="text-xl font-bold text-aq-orange mb-1">Mobile Apps</h3>
                 <p class="text-aq-gray text-sm">iOS & Android applications.</p>
+            </div>
+            <div class="flex flex-col items-center text-center">
+                <div class="mb-4 text-aq-orange">
+                    <i class="fas fa-robot text-5xl" aria-hidden="true"></i>
+                </div>
+                <h3 class="text-xl font-bold text-aq-orange mb-1">AI Automation</h3>
+                <p class="text-aq-gray text-sm">Smart workflows & chatbots.</p>
             </div>
         </div>
 
