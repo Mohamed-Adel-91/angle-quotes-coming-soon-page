@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 import logo from './6OGKXHOIiZWjQPhSTlFlHmPk0U.avif'
 
-const LAUNCH_TIMESTAMP = new Date(2026, 4, 1, 23, 59, 59).getTime()
+const LAUNCH_TIMESTAMP = new Date(2026, 4, 10, 23, 59, 59).getTime()
 
 const countdownUnits = [
   { key: 'days', label: 'Days' },
@@ -137,7 +137,7 @@ function App() {
           </div>
 
           <div className="hero-copy">
-            <p className="hero-copy__eyebrow">Launch target: May 1, 2026</p>
+            <p className="hero-copy__eyebrow">Launch target: May 10, 2026</p>
             <h1 className="hero-copy__title">
               REDEFINING SYSTEMS &amp; SOFTWARE:
               <span> Angle Quotes is coming.</span>
